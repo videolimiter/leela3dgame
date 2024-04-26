@@ -1,7 +1,6 @@
 {
-    "singleQuote": true,
-    "arrowParens": "always",
-    "max-len": ["error", 140, 2],
-    "tabWidth": 4,
-    "useTabs": true
+	"singleQuote": false,
+	"max-len": ["error", 80, 2],
+	"tabWidth": 2,
+	"useTabs": true
 }

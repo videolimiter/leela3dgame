@@ -47,7 +47,8 @@
     "webpack-merge": "^5.9.0"
   },
   "dependencies": {
+    "gsap": "^3.12.2",
     "three": "^0.155.0",
-    "gsap": "^3.12.2"
+    "three-stl-loader": "^1.0.6"
   }
 }
