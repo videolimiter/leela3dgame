@@ -18,7 +18,7 @@ const init = () => {
 	const renderer = new THREE.WebGLRenderer({canvas})
 	renderer.setSize(sizes.width, sizes.height)
 	renderer.render(scene, camera)
-	camera.position.set(0, 6, 2)
+	camera.position.set(0, 16, 12)
 
 	const hemiLight = new THREE.HemisphereLight(0xdfffff, 0xdfffff, 0.5)
 	hemiLight.position.set(0, 150, 0)
